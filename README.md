@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/qaisar-jamaluop">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAABmJLR0QA/wD/AP+gvaeTAAABOklEQVRYhe2YMU7DQBBF3wM1EoqiwpWUKGJUtEpewYFDQ+CFREyOHH0AoWeHIMK6XEnQeS6DOrD/7lnJzn3jO6QmJ19MC+UjF+kQmAwwyMSjeZmCLABmSxzDfr78wD7Ngq9hv4dmST2WTlPRq3bqdbT8wmDhiCe3IWWC3BNquZW6hrgBZfSoJ7UJujP7QNFsR1NhA7oh5LRPcMejlBk5I67L1Wz9YCATGVYpUPsRlT2oMK5v3gt1mN7+JIfBdDvhxGsFXR/sHf1yNuCO0YO6ZHp5txDVRzHRM3Uy3HZs4u2AEZlNMOCHxX50zIHhMBFhbl5jcpP4PDZpvPvc7wDdfIQbPfYyB++37jlgZj2XmKvM+yDbrlHNhZvxCujLgCMK3ycQ5DABmSGUNwvY7yFYh8MwU+jz6E0HdfGVmG/qXC5cs0Od/nwDiMy7hGnD/PAAAAAElFTkSuQmCC" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
 </a>
   <a href="https://wa.me/923028076931">
     <img src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
